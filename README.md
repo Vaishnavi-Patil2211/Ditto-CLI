@@ -1,4 +1,4 @@
-# echo-CLI
+# Ditto-CLI
 Command line interface for managing user information
 
 
